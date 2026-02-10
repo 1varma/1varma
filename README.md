@@ -19,9 +19,8 @@ Currently deepening skills in Python, SQL, AWS, NLP, and AI agents.
 | [Abstractive Text Summarization using BART](https://github.com/Clarkson-Applied-Data-Science/2025_ia653_juttu) | This project implements an abstractive text summarization system using the BART (Bidirectional and Auto-Regressive Transformer) model.| Transformers, Hugging Face, Python, Pytorch Lightning |
 | [NYC Taxi NYC Analysis](https://github.com/Clarkson-Applied-Data-Science/taxiNYC_ADS_BigData626_1varma) | This project analyzes taxi trip data to extract meaningful insights about trip patterns, passenger counts, trip distances, and other relevant attributes. | Python, Pandas, Duckdb |
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats-1varma.vercel.app/api?username=1varma&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats-1varma.vercel.app/api/top-langs/?username=1varma&layout=compact&theme=tokyonight)
+## 📊 GitHub Activity
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=1varma&theme=tokyonight)](https://github.com/1varma)
 
 ## 📫 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/ashishvarmajuttu)
