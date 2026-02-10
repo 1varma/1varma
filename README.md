@@ -1,4 +1,4 @@
-# Hi, I'm [Ashish Varma Juttu] 👋
+# Hi, I'm Ashish Varma Juttu 👋
 
 ## About Me
 Data professional focused on building end-to-end data pipelines and ML solutions.
