@@ -24,5 +24,5 @@ Currently deepening skills in Python, SQL, AWS, NLP, and AI agents.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1varma&layout=compact&theme=tokyonight)
 
 ## 📫 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/yourname)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=google-chrome)](https://yoursite.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/ashishvarmajuttu)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=google-chrome)](http://ashishvarmajuttu.kesug.com)
